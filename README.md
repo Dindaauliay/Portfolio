@@ -6,7 +6,7 @@ Here is my Portfolio as Data Analyst, please check it out!
 * Data Cleaning;
 * Query Table;
 * Pivot Table;
-* Vlookup;
+* Vlookup, Xlookup, Etc;
 * Descriptive Statistics;
 * Data Visualization;
 * Gathering Insights;
@@ -40,8 +40,10 @@ Here is my Portfolio as Data Analyst, please check it out!
 * Combine & merge datasets
 * Data aggregation
 * Descriptive statistic
-* Analyzing using visualization
+* Forecasting
 * Cluster Analysis
+* Analyzing using visualization
+
 
 ### Code example:
 1. [Mutual Fund Invesment](https://colab.research.google.com/drive/1BQ3y1_s0EwSArmE89-9qmm-vti8SUJLV?usp=share_link)

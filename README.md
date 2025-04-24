@@ -13,7 +13,8 @@ Here is my Portfolio as Data Analyst, please check it out!
 * A/B Testing
 
 ### Deck :
-[Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/1wREjp6u8p9BWMONM1zPfqKTa19-OwKKfgEgs4OKKKt8/edit?usp=share_link)
+[Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/1wREjp6u8p9BWMONM1zPfqKTa19-OwKKfgEgs4OKKKt8/edit?usp=share_link),
+
 [DataCo Supply Chain](https://docs.google.com/presentation/d/11b3gT3jXhu5a0bL-NV-472JaUpakQSXv/edit?usp=drive_link&ouid=111928208020428104365&rtpof=true&sd=true)
 
 ## SQL Skill sets:

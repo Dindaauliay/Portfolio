@@ -17,6 +17,8 @@ Here is my Portfolio as Data Analyst, please check it out!
 
 [DataCo Supply Chain](https://docs.google.com/presentation/d/11b3gT3jXhu5a0bL-NV-472JaUpakQSXv/edit?usp=drive_link&ouid=111928208020428104365&rtpof=true&sd=true)
 
+[CrediU's Fintech Company](https://docs.google.com/presentation/d/1Ng0ImgCoUVKvWUTKwXOFZfE-5Fx5IHvb/edit?usp=drive_link&ouid=111928208020428104365&rtpof=true&sd=true)
+
 ## SQL Skill sets:
 * Standard Query Syntax;  
 * SQL Aggregate Functions; 

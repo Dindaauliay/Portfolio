@@ -13,11 +13,7 @@ Here is my Portfolio as Data Analyst, please check it out!
 * A/B Testing
 
 ### Deck :
-[Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/1wREjp6u8p9BWMONM1zPfqKTa19-OwKKfgEgs4OKKKt8/edit?usp=share_link),
-
-[DataCo Supply Chain](https://docs.google.com/presentation/d/11b3gT3jXhu5a0bL-NV-472JaUpakQSXv/edit?usp=drive_link&ouid=111928208020428104365&rtpof=true&sd=true)
-
-[CrediU's Fintech Company](https://docs.google.com/presentation/d/1Ng0ImgCoUVKvWUTKwXOFZfE-5Fx5IHvb/edit?usp=drive_link&ouid=111928208020428104365&rtpof=true&sd=true)
+[Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/1wREjp6u8p9BWMONM1zPfqKTa19-OwKKfgEgs4OKKKt8/edit?usp=share_link)
 
 ## SQL Skill sets:
 * Standard Query Syntax;  
@@ -63,4 +59,7 @@ Here is my Portfolio as Data Analyst, please check it out!
 
 
 ## Project Based Analytics
-1. [DataCo Supply Chain](https://colab.research.google.com/drive/1inR4ggwnCpMW1cdH6NhDsV-YLd9swi0K?usp=sharing)
+1. [DataCo Supply Chain - Google Colab](https://colab.research.google.com/drive/1inR4ggwnCpMW1cdH6NhDsV-YLd9swi0K?usp=sharing)
+## Deck
+1. [DataCo Supply Chain](https://docs.google.com/presentation/d/11b3gT3jXhu5a0bL-NV-472JaUpakQSXv/edit?usp=drive_link&ouid=111928208020428104365&rtpof=true&sd=true)
+2. [CrediU's Fintech Company](https://docs.google.com/presentation/d/1Ng0ImgCoUVKvWUTKwXOFZfE-5Fx5IHvb/edit?usp=drive_link&ouid=111928208020428104365&rtpof=true&sd=true)
